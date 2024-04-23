@@ -25,8 +25,8 @@ public class Main {
     byte людмилаПав = 23; //ученика
     byte аннаСерг = 27;  //ученика
     byte екатеринаАнд = 30; //ученика
-    short totalNamber = 480; //листов
-    short sheetsStudent = (short) (totalNamber / (людмилаПав + аннаСерг + екатеринаАнд));
+    short totalNumber = 480; //листов
+    short sheetsStudent = (short) (totalNumber / (людмилаПав + аннаСерг + екатеринаАнд));
     System.out.println("На каждого ученика рассчитано " +sheetsStudent+ " листов бумаги.");
         //Задание №4.
     byte bottle = 16; //бутылок
